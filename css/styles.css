@@ -1,7 +1,12 @@
+body{
+  padding-top: 70px;
+}
+
 .features .fas  {
   font-size: 30px;
   color: RGB(0, 128, 128);
 }
+
 .footer{
   padding: 30px 0;
   bottom:;
@@ -17,6 +22,4 @@
 
 @media query only screen and (max-with:768px){
 .footer{ height: 300px;}
-
-
 }
